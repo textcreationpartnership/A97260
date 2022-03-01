@@ -1,0 +1,893 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A precious mithridate for the soule made up of those two poysons, covetousness and prodigality the one drawn from the fathers ill qualities: the other from the sons: for the curing of both extremes, and advancing frugality, the mean. Being foure chapters taken out of R. Junius his Christian library, and are to be sold by J. Crump stationer in Little Bartolmes Well-yard, and H. Crips in Popeshead-ally.</title>
+            <author>Younge, Richard.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 50 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A97260</idno>
+            <idno type="STC">Wing Y174A</idno>
+            <idno type="STC">ESTC R230788</idno>
+            <idno type="EEBO-CITATION">99896486</idno>
+            <idno type="PROQUEST">99896486</idno>
+            <idno type="VID">154368</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A97260)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 154368)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2414:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A precious mithridate for the soule made up of those two poysons, covetousness and prodigality the one drawn from the fathers ill qualities: the other from the sons: for the curing of both extremes, and advancing frugality, the mean. Being foure chapters taken out of R. Junius his Christian library, and are to be sold by J. Crump stationer in Little Bartolmes Well-yard, and H. Crips in Popeshead-ally.</title>
+                  <author>Younge, Richard.</author>
+               </titleStmt>
+               <extent>[2], 13, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed [and are to be sold by J. Crump stationer in Little Bartholmes Well-yard, and H. Crips in Popeshead-ally],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>R. Junius is a pseudonym for Richard Younge.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Vices --  Early works to 1800.</term>
+               <term>Christian life --  Early works to 1800.</term>
+               <term>Redemption --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:154368:1"/>
+            <p>A PRECIOUS MITHRIDATE FOR The SOULE Made up of thoſe two
+POYSONS, Covetouſneſs AND Prodigality:</p>
+            <p>The one drawn from the <hi>Fathers Ill Qualities:</hi> The other
+from the <hi>Sons:</hi> For the <hi>Curing</hi> of both <hi>Extremes,</hi> and
+advancing <hi>Frugality,</hi> the <hi>Mean.</hi>
+            </p>
+            <p>Being foure Chapters taken out of <hi>R. Junius</hi> his
+<hi>Chrſtian Library,</hi> And are to be ſold by <hi>J. Crump</hi>
+Stationer in <hi>Little Bartholmes Well-yard,</hi> and <hi>H. Crips</hi> in
+<hi>Popeſhead-ally.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed. 1661.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:154368:2"/>
+            <pb n="1" facs="tcp:154368:2"/>
+            <head>A Precious Methridate for the Soul, <hi>Made up of thoſe two
+Poyſons,</hi> Covetouſneſs <hi>and</hi> Prodigality:</head>
+            <div type="preface">
+               <head>PREFACE.</head>
+               <p>Such as have formerly heard theſe <hi>Nightingales,</hi> or
+ſeen theſe <hi>Jewels</hi> in another Cage, or Cabinet; may pleaſe to
+take notice, that they are not ſtolen, but borrowed. Every <hi>Garden</hi> is
+furniſhed from other <hi>Gardens,</hi> and ſo is mine; but with leave from
+the Owners; As <hi>Vertue is diſtributive,</hi> and <hi>good Fruit</hi> the
+<hi>more common</hi> it is, <hi>the better</hi> it is. Beſides the oftner
+theſe <hi>Nails</hi> are hammered, the deeper they pearſe; and pearſe too
+deep they cannot: for five words <hi>remembred</hi> is better than a thouſand
+forgotten. Again, <hi>old metal</hi> caſt into a <hi>new mold,</hi> becomes
+new, and is ſo eſt<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>emed.
+Theſe <hi>Pearls</hi> are filed upon a ſtring, that men may not ſhake
+them out of their pockets. If thou receiveſt any ſpiritual benefit, by
+pertaking of this <hi>Banquet</hi> (or <hi>extract</hi>) give <hi>God</hi> the
+glory; which is all the <hi>Confectioner</hi> expects for his pains: for
+praiſe or thanks I ſeek none, as I have deſerved none. Or in caſe my
+<hi>labour</hi> hath been worthy of <hi>hire,</hi> the great pleaſure I took
+therein, hath been ſweeter than anothers wa<g ref="char:EOLhyphen"/>ges. Yea, if I have not grown
+<hi>better</hi> by it, yet it hath kept me from <hi>worſe,</hi> and not
+afforded me time to entertain the <hi>Divel.</hi> Nor have I more <hi>made my
+Book,</hi> than <hi>my Book</hi> hath <hi>made me.</hi>
+               </p>
+               <closer>
+                  <signed>J. F.</signed>
+               </closer>
+            </div>
+            <div n="1" type="chapter">
+               <head>CHAP. I.</head>
+               <p>
+                  <seg rend="decorInit">H</seg>Aving <hi>felt</hi> the <hi>Cormorants pulſe,</hi> I find it
+to <hi>beat</hi> moſt <hi>violently after gain;</hi> He were a <hi>skillful
+Phyſician</hi> that could <hi>pick out the greedy worm,</hi> which makes him
+ſo <hi>hungry:</hi> yea, he ſhould <hi>de<g ref="char:EOLhyphen"/>ſerve</hi> a greater
+<hi>reward,</hi> then <hi>Eraſtratus</hi> had for <hi>curing Antio<g ref="char:EOLhyphen"/>chus,</hi>
+which was <hi>fourteen thouſand three hundred ſeventy</hi> and <hi>five
+pounds:</hi> But to <hi>hope</hi> this, were an <hi>effect of Frenzie,</hi> not
+of <hi>Reaſon;</hi> 
+                  <pb n="2" facs="tcp:154368:3"/>for you ſhal ſooner hear of <hi>an
+hundred Malefactors converſion at the Gallows,</hi> then of <hi>one Covetous
+Cormorant</hi> in his <hi>bed.</hi> Onely I will give you <hi>his</hi> and
+<hi>his Sons Effigies,</hi> and <hi>ſet</hi> them <hi>up</hi> as
+<hi>Sea-marks</hi> to make others <hi>beware;</hi> that both may <hi>do</hi>
+good <hi>ſervice to the Church:</hi> For whereas <hi>honeſt men profit the
+Commonwealth,</hi> by occaſioning themſelves to be <hi>imi<g ref="char:EOLhyphen"/>tated;</hi>
+theſe ſhall happily benefit the ſame, by cauſing themſelves to be
+<hi>evitated.</hi> As ſometimes a <hi>Harlots face</hi> hath
+<hi>ſuggeſted chaſtneſs:</hi> and <hi>good</hi> may be <hi>learnt,</hi>
+both <hi>by ſimilitude</hi> and <hi>contrariety.</hi> At leaſt the beauties
+of all <hi>Chriſtian graces,</hi> are illuſtrated by the
+<hi>blackneſs</hi> of their <hi>oppoſite vices.</hi>
+               </p>
+               <p>The <hi>Covetous Miſer</hi> is one that affects no imployment
+or <hi>Occupation</hi> for it ſelf, but for gain: all his <hi>reaches</hi>
+are at <hi>riches:</hi> his <hi>ſummum bonum</hi> is <hi>commodity,</hi> and
+<hi>gold</hi> is the <hi>Goddeſs</hi> he <hi>adores</hi> in every thing. He
+<hi>plots, ſtuddies, contrives,</hi> breaks his <hi>peace,</hi> his
+<hi>ſleep,</hi> his <hi>brains,</hi> to compaſs his deſires: and though
+he venters his <hi>ears,</hi> his <hi>neck,</hi> his <hi>ſoul;</hi> he dares
+not deny his <hi>ſlave,</hi> his <hi>dog,</hi> his <hi>Devil</hi> Avarice;
+nor cares he <hi>how he gets,</hi> but <hi>what he gets.</hi> There is no
+<hi>evill</hi> that he will not <hi>do,</hi> ſo <hi>goods</hi> may <hi>come
+of if;</hi> you cannot name the <hi>Sin</hi> that he will not
+<hi>ſwallow</hi> in the <hi>ſweet broth</hi> of <hi>commodity:</hi> like
+<hi>Dorio</hi> the <hi>Bawde</hi> in <hi>Terrence,</hi> he is <hi>not
+aſhamed</hi> of the <hi>baſeſt actions</hi> that bring him in
+<hi>benefit;</hi> nor does he <hi>ſmell</hi> any <hi>difference,</hi> between
+<hi>gold got by oppreſſion,</hi> and that which is <hi>honeſtly come
+by.</hi>
+               </p>
+               <p>
+                  <hi>Avarice</hi> is the <hi>grave</hi> of all <hi>good,</hi> it
+cats out the very <hi>heart of grace,</hi> by eating grace out of the heart.
+The <hi>damps</hi> of the <hi>earth</hi> do not more <hi>quench fire,</hi> then
+the <hi>love of earth ſtifles grace:</hi> neither <hi>trees</hi> nor
+<hi>graſſe grow above,</hi> where the <hi>golden Mines</hi> are
+<hi>below;</hi> If the love of mony be once entred into the <hi>heart,</hi> no
+fruits of goodneſs will appear in the <hi>life:</hi> yea there is an
+abſolute contrariety, between <hi>the love of God,</hi> and <hi>the love of
+Mammon;</hi> as our <hi>Saviour</hi> ſhews, <hi>Luke</hi> 16.13,</p>
+               <p>This <hi>Machivillians heart</hi> is a very <hi>mint of
+fraud,</hi> that can readily <hi>coyn</hi> falſehoods upon every occaſion;
+yea, he is ſuch <hi>a deep,</hi> that one may better tell the <hi>haires of
+his bead,</hi> then either the <hi>ſprings, wards,</hi> or <hi>wic<g ref="char:EOLhyphen"/>kedneſs
+of his deceitful heart:</hi> and yet ſo <hi>fooliſh withall,</hi> that he
+not onely <hi>impoveriſheth</hi> his <hi>ſoul,</hi> to <hi>inrich</hi> his
+<hi>body,</hi> but to purchaſe a great eſtate, he will <hi>ſell</hi> both
+<hi>ſoul</hi> and <hi>body.</hi> Like <hi>Sylveſter</hi> the ſecond, who
+to get the <hi>Popedome,</hi> gave his <hi>ſoul</hi> to the
+<hi>Devill.</hi>
+               </p>
+               <p>The pooreſt <hi>Cheats ſoul</hi> (if ever it be ſaved)
+<hi>coſts</hi> no leſs a price than <hi>Chriſts precious blood:</hi> yet
+half a crown, yea ſix pence will make this Churle <hi>ſell</hi> his. By
+which means he ſwels in his <hi>eſtate</hi> from a <hi>Toad</hi> to an
+<hi>Oxe</hi> (as in the Fable) and then <hi>burſts.</hi> And (which I would
+have you to obſerve) he thinks himſelf ſo much <hi>the wiſer</hi> as he
+is <hi>the richer:</hi> which makes me the more willing to ſtigmatize his
+folly.</p>
+               <p>To ſhew that Covetous men <hi>belong to Hell</hi> after they
+<hi>die,</hi> they are like <hi>Hell</hi> while they <hi>live: Hell</hi> is
+never <hi>filled,</hi> and they are never <hi>ſatisfied.</hi> His abundance
+no more quencheth his <hi>luſt,</hi> than <hi>fuel</hi> does the
+<hi>flame;</hi> yea, like Oyl, it <hi>kindleth</hi> the fire which it ſeems
+to <hi>quench.</hi> Avarice is like that <pb n="3" facs="tcp:154368:3"/>
+                  <hi>Diſeaſe</hi>
+we call the <hi>Wolf;</hi> which is ever <hi>eating,</hi> yet keeps the body
+Lean. The <hi>Covetous Cormorant</hi> is like one of <hi>Pharaoh</hi>'s
+<hi>lean and illfavoured kine:</hi> for though he devours much, yet he is never
+the leſs hungry, never the more fat. A moderate water makes the Mill go
+merrily, but too much will not ſuffer it to go at all.</p>
+               <p>The <hi>Covetous Miſer</hi> is like the <hi>Indians,</hi> who
+though they have all the Gold among them, yet are the moſt beggerly people
+alive. He is like <hi>Tantalus,</hi> who ſtands up to the chin in water, and
+hath all kinds of fruits hanging over his head, but is not ſuffered to
+<hi>taſte</hi> the one, nor <hi>drink</hi> of the other. Or like an
+<hi>Aſſe</hi> that is laden with gold and dainty cates, but feeds upon
+thiſtles. He ſcarce wears a <hi>good</hi> garment, or eats a
+<hi>liberall</hi> meal, or takes a <hi>quiet</hi> ſleep; but is ever
+tormenting himſelf to get that, for getting whereof he ſhall be tormented.
+As a <hi>proud</hi> man is <hi>ignorant</hi> in the midſt of his
+<hi>knowledge,</hi> ſo is he <hi>poor</hi> and <hi>needy</hi> in the midſt
+of his <hi>wealth.</hi> Yea, whereas the Poor Begger wants <hi>many
+things,</hi> the Rich Miſer wants <hi>every thing.</hi>
+               </p>
+               <p>His <hi>buſineſs</hi> will never give him leave to think of
+his <hi>conſcience:</hi> All his Religion is the <hi>love of money.</hi> He
+goes to <hi>Church</hi> indeed, but it is not to ſerve <hi>God,</hi> but the
+<hi>State;</hi> which he uſes not as a means to ſave his <hi>ſoul</hi>
+but his <hi>ſilver.</hi> To him all <hi>ſpirituall</hi> and
+<hi>eternall</hi> things ſeem <hi>incredible,</hi> becauſe they are
+<hi>inviſible.</hi> Nothing will ſink into his <hi>head</hi> that he cannot
+<hi>ſee with his eyes,</hi> or <hi>feel with hit fingers.</hi> And in caſe
+he cannot <hi>gain</hi> by being Religious, his care ſhall be not to
+<hi>loſe</hi> by it: and that Religion will like him beſt that is
+<hi>beſt cheap,</hi> and that will coſt him leaſt. Any <hi>doctrine</hi>
+is welcome to him, but that which beats upon <hi>good works,</hi> only that he
+cannot indure. No, if another be at the charges to ſerve <hi>God,</hi> this
+<hi>Churle</hi> like <hi>Judas,</hi> will cry our, <hi>why is this
+waſte?</hi> Nor ſhall any means ever convert him. No <hi>Phyſick</hi> is
+ſtrong enough to purge out this Humour: Be<g ref="char:EOLhyphen"/>cauſe, if ever he ſhould
+repent, he muſt reſtore his ill gotten eſtate; which to him is as hard an
+injunction as that of <hi>God</hi> to <hi>Abraham, Gen.</hi> 22.2. Or, as that
+of our <hi>Saviour</hi> to the <hi>Young man, Luk.</hi> 18.22. and therefore
+what hope of his yielding? <hi>Covetouſneſſe is Idolatry, Eph.</hi> 5.5.
+<hi>Coll.</hi> 3.5. and <hi>Money</hi> is the covetous mans <hi>god:</hi> and
+will he part with his <hi>god?</hi> No, And ſo long as he keeps the
+<hi>weapon</hi> (ill-got goods) in his <hi>wound,</hi> and will not <hi>pluck
+it out by reſtitution;</hi> how is it poſſible he ſhould be
+<hi>cu<g ref="char:EOLhyphen"/>red?</hi> He may with that <hi>Rich man, Luk.</hi> 10. have a good mind
+to <hi>Heaven, in reverſion:</hi> yet for all that he will not hear of
+parting with his <hi>Heaven</hi> whereof he hath the <hi>preſent
+poſſeſſion.</hi>
+               </p>
+               <p>To other ſins <hi>Satan</hi> tempts a man often: but
+<hi>Covetouſneſſe</hi> is a Fine and Recovery upon the Purchaſe. So
+that it is as eaſie to raiſe a <hi>dead</hi> man, as to convert a
+<hi>covetous</hi> man. A Covetous man is like a ſick Patient that cannot
+ſpit, whom nothing will cure: Or, like a crack'd Bell, for which there is no
+remedy but the fire. Or like one that hath the <hi>Plague-tokens,</hi> who is
+paſt all hope, and for whom all that can be done is to ſay, <hi>Lord have
+mercy upon him.</hi> And therefore, though I had rather be a <hi>Toad</hi>
+                  <pb n="4" facs="tcp:154368:4"/>then a <hi>Drunkard;</hi> yet had I rather be a
+<hi>Drunkard</hi> then a <hi>Covetous Miſer,</hi> Matth. 21.31, 32.</p>
+            </div>
+            <div n="2" type="chapter">
+               <head>Chap. 2.</head>
+               <p>Now, as this <hi>Mercileſs Miſer</hi> is all for
+<hi>ſparing,</hi> ſo his Heir is all for <hi>waſting:</hi> He lives
+<hi>poorly</hi> and penuriouſly all his life, that he may die <hi>rich,
+Pſal.</hi> 39.6. And what comes of it? As he hath <hi>reapt</hi> that which
+another <hi>ſowed,</hi> ſo another ſhall <hi>thraſh</hi> that which he
+hath <hi>reaped. He hords up, not knowing who ſhall enjoy it;</hi> and
+commonly they enjoy it who lay it out as faſt. He takes only the
+<hi>bitter,</hi> and leaves the <hi>ſweet</hi> for others, perhaps thoſe
+that wiſh him hanged, upon condition they had his means the ſooner.</p>
+               <p>Or poſſible it is he may have <hi>children;</hi> which if he
+have, he <hi>loves</hi> them ſo much <hi>better then himſelf,</hi> that he
+will voluntarily be miſerable here and hereafter, that they may be happy. He
+is willing to go in a thred-bare coat, to ſtarve his body, loſe his credit,
+wound his conſcience, torment his heart and minde with fears and cares; yea
+he can finde in his heart to damne his own ſoul and go to hell, that he may
+raiſe his houſe, and leave his heir a great eſtate, as thinking his
+houſe and habi<g ref="char:EOLhyphen"/>tation ſhall continue for ever, even from generation to
+generation, and call their lands by his name, as the Pſalmiſt ſhews,
+<hi>Pſalm</hi> 49.11. He is careful to provide his <hi>children
+portions,</hi> while he provides <hi>no portion</hi> of comfort <hi>for his own
+welfare,</hi> either here or hereafter. He provides for his <hi>childrens
+bodies,</hi> not for their <hi>ſouls,</hi> to ſhew that he begat not their
+<hi>ſouls</hi> but their bodies, He leaves a fair eſtate for <hi>the
+worſer part,</hi> nothing for the eſtate of the better part. He deſires
+to leave his children <hi>great</hi> rather then good, and is more ambitious to
+have his ſons <hi>Lords on earth,</hi> then <hi>Kings in heaven.</hi> But as
+<hi>he that provides not for their temporal eſtate, is worſe then an
+Infidel,</hi> 1 Tim. 5.8. So he that provides not for their <hi>eternal
+eſtate,</hi> is little better then <hi>a devil,</hi> which yet is the caſe
+of <hi>nine parts</hi> of the <hi>parents</hi> throughout the
+<hi>Land.</hi>
+               </p>
+               <p>But obſerve how his children requite him again, and how
+<hi>God</hi> requites him in his <hi>children;</hi> for commonly they are
+ſuch, as never give him thanks nor in the leaſt lament his Loſs; perhaps
+they <hi>mourn</hi> at his <hi>funeral,</hi> yet not for that he <hi>is
+dead,</hi> but becauſe he <hi>died no ſooner.</hi> Nor is it any rare thing
+for men to mourn for him <hi>dead,</hi> whom they would by no means have
+ſtill to be alive. Yea for the moſt part, it is but a <hi>faſhionable
+ſor<g ref="char:EOLhyphen"/>row,</hi> which the ſon makes ſhew of at his <hi>fathers death;</hi>
+as having many a <hi>day</hi> wiſht for that <hi>hour.</hi> A ſorrow in
+ſhew onely, like that of <hi>Jacobs ſons</hi> when they had <hi>ſold
+their brother Joſeph,</hi> who profeſt a great deal of <hi>greif</hi> for
+his loſs, when inwardly they <hi>rejoyced.</hi> Have ye not heard of a
+<hi>pro<g ref="char:EOLhyphen"/>digal</hi> young <hi>heir?</hi> that incouraged his companions, with,
+come let us drink, revel, throw the houſe out at windows; the man in Scarlet
+will pay for all; meaning his <hi>father</hi> who was a <hi>Judge,</hi> but he
+<hi>adjudged</hi> the pa<g ref="char:EOLhyphen"/>trimony from him to one of his younger ſons more
+obedient; And good reaſon he had for it, for to give <hi>riches</hi> to the
+<hi>riotous,</hi> is all one as to <hi>pour</hi> 
+                  <pb n="5" facs="tcp:154368:4"/>precious
+<hi>liquor into a Seeve,</hi> that will hold <hi>no liquid</hi> ſubſtance;
+which occaſioned the <hi>Rhodians,</hi> and <hi>Lydians,</hi> to enact
+ſeveral laws; that thoſe <hi>ſons</hi> which followed not their
+<hi>fathers</hi> in their <hi>vertues,</hi> but <hi>lived viciouſly,</hi>
+ſhould be <hi>diſinherited,</hi> and their <hi>lands given</hi> to the
+moſt <hi>verteous</hi> of that <hi>race,</hi> not admiting any <hi>impious
+heir</hi> whatſoever to <hi>inherit,</hi> as <hi>Varro</hi> well notes. But
+it is otherwiſe in this caſe, for (in regard of <hi>Gods curſe</hi> upon
+this unmerciful Muckworm) if he have more <hi>ſons</hi> then one, the
+<hi>eldeſt</hi> proves a <hi>prodigal,</hi> and he <hi>inherits.</hi>
+               </p>
+               <p>Every mans own experience can tell him, that for the moſt part
+<hi>a ſcat<g ref="char:EOLhyphen"/>terer ſucceeds a gatherer,</hi> one that waſts
+<hi>vertues</hi> faſter then <hi>riches,</hi> and <hi>riches</hi> faſter
+then any <hi>vertues</hi> can get them; one that is as exceſſive in
+<hi>ſpending,</hi> as the other was in <hi>ſcraping;</hi> for as the
+<hi>father</hi> chooſeth to <hi>fill his cheſts,</hi> ſo the
+<hi>ſon</hi> is given to <hi>ſatisfie his luſts.</hi> Nor could the one
+be more cunning at the <hi>rake,</hi> then the other will be at the
+<hi>pitchfork.</hi> The moneys which were formerly cheſted like <hi>caged
+Birds,</hi> will wing it merrily when the young heir ſets them flying. And as
+<hi>Cicero</hi> ſpeaks, he <hi>riotouſly ſpends</hi> that which the
+father had as <hi>wickedly gotten.</hi> The one would <hi>have all to
+keep,</hi> the other will <hi>keep nothing at all;</hi> the <hi>former gets and
+ſpends not,</hi> the <hi>latter ſpends and gets not.</hi> Yea the
+<hi>ſon</hi> being as greedy of <hi>expence,</hi> as the <hi>father was in
+ſcraping;</hi> he <hi>teddeth</hi> that with a <hi>fork</hi> in <hi>one
+year,</hi> which was not <hi>gathered</hi> with a <hi>rake</hi> in twenty. Yea
+how oft is that <hi>ſpent</hi> upon <hi>one Chriſt<g ref="char:EOLhyphen"/>mas revelling</hi> by
+the <hi>ſon,</hi> which <hi>was fourty years</hi> a <hi>getting</hi> by ehe
+<hi>Father?</hi> Which <hi>Diogenes</hi> well conſidered, for whereas he
+would ask of a <hi>frugal Citizen</hi> but a <hi>penny,</hi> of a
+<hi>Prodigal</hi> he would beg a talent, and when the party asked him what he
+meant, to deſire ſo much of him and ſo little of others, his anſwer
+ſhould be, <hi>Quoniam tu habes, ille habebunt;</hi> becauſe <hi>thou
+haſt,</hi> and <hi>they will have.</hi> I ſhall beg of thee but once, thy
+eſtate will ſo ſoon vaniſh, of them often: yea give me now <hi>a
+talent,</hi> I may live to give thee a <hi>groat.</hi> And at another time;
+hearing that the <hi>houſe</hi> of a certain <hi>Prodigall</hi> was offered
+to <hi>ſale,</hi> he ſaid, I knew well that <hi>houſe</hi> was ſo
+accuſtomed to <hi>ſurfeiting,</hi> and <hi>drunkenneſs,</hi> that ere
+long it would <hi>ſpue</hi> out the <hi>Maſter.</hi>
+               </p>
+               <p>Nay in all likelihood he foreſees it himſelf; and therefore
+as he makes ſhort work with his <hi>eſtate,</hi> ſo not long with his
+<hi>life,</hi> as knowing, that if he ſhould live long, he muſt be a
+begger.</p>
+               <p>As ſeldom but he ſhortens his days ſome way; for he gives
+himſelf to all manner of <hi>vice, gluttony</hi> and <hi>drunkenneſſe,
+chambering</hi> and <hi>wantonneſs, pride, riot, contention,</hi> &amp;c. He
+even baniſhes <hi>civility,</hi> and gives himſelf over to
+<hi>ſenſuality;</hi> and ſuch a life ſeldom laſts long.</p>
+               <p>They may rightly be called <hi>ſpend-alls,</hi> for they not
+onely <hi>ſpend all they have,</hi> but themſelves alſo; in ſtead of
+<hi>quenching their thirſts,</hi> they <hi>drown</hi> both their <hi>bodies,
+ſouls</hi> and <hi>eſtates</hi> in Drink. They will call, Drawer give us an
+<hi>Ocean,</hi> and then leave their <hi>wits</hi> rather then the
+<hi>wine</hi> behinde them. One cryes to his fellow, Do me <hi>reaſon;</hi>
+but the drink anſwers, I will leave thee <hi>no reaſon,</hi> no not ſo
+much as a <hi>beaſt</hi> hath; for theſe <hi>Nabols</hi> cannot
+<hi>abound,</hi> but they muſt be <hi>drunk ſurfet.</hi> They have not
+onely caſt off <pb n="6" facs="tcp:154368:5"/>
+                  <hi>Religion</hi> that ſhould make them
+<hi>good men;</hi> but even <hi>reaſon</hi> that ſhould make them men; And
+ſaving only on the <hi>Sea,</hi> they <hi>live without</hi> all
+<hi>com<g ref="char:EOLhyphen"/>paſs;</hi> as a <hi>ſhip on the water, ſo they on the land reel
+too and fro, and ſtagger like a drunken man, Pſal.</hi> 107.27.</p>
+               <p>All their felicity is in <hi>Tavern,</hi> or <hi>brothell
+houſe,</hi> where <hi>harlots</hi> and <hi>ſicophants riflle</hi> their
+<hi>eſtates,</hi> and then ſend them to <hi>robbe,</hi> or teach them how
+to <hi>cheat</hi> or <hi>borrow,</hi> which is all one, for to pay they never
+mean, and <hi>prodigality</hi> drives them to repair their too great
+<hi>laviſhneſſe</hi> in one thing, by too great
+<hi>covetouſneſſe</hi> and <hi>injuſtice</hi> in another. The
+greateſt <hi>miſpenders</hi> for the moſt part are conſtrained to be as
+great <hi>miſgetters,</hi> that they may <hi>feed one vice with
+another.</hi>
+               </p>
+               <p>Now as if they had been bred among <hi>Bears,</hi> they know no
+other <hi>dia<g ref="char:EOLhyphen"/>lect</hi> then <hi>roaring, ſwearing</hi> and <hi>banning.</hi>
+It is the <hi>tongue</hi> or <hi>language</hi> of <hi>hell</hi> they
+<hi>ſpeak;</hi> as men learn before hand the language of that
+<hi>Country</hi> whe<g ref="char:EOLhyphen"/>ther they mean to <hi>travel.</hi>
+               </p>
+               <p>By wine and ſurfeting they pour out their whole eſtates into
+their bellies. The <hi>father</hi> went to the <hi>devil one way,</hi> and the
+<hi>ſon</hi> will follow him another; and becauſe he hath choſen the
+<hi>ſmoother way,</hi> he makes the <hi>more haſt.</hi> The one ſo
+<hi>loved Money,</hi> that he could not afford himſelf <hi>good Drink:</hi>
+the other ſo <hi>loves good Drink,</hi> that he <hi>ſcornes Money.</hi> The
+<hi>Father</hi> cannot finde in his heart to put a good morſel into his
+belly, but lives on roots, that his prodigal <hi>heir</hi> may feed on
+<hi>Pheſants;</hi> he drinks <hi>water,</hi> that his ſon may drink
+<hi>wine,</hi> and that to drunkenneſs. The one dares not eat <hi>an
+egge,</hi> leſt he ſhould loſe a <hi>chicken,</hi> and goes to hell with
+<hi>whay</hi> and <hi>car<g ref="char:EOLhyphen"/>rots,</hi> the other follows after with <hi>Canary,
+Partridges,</hi> and <hi>Potatoes.</hi>
+               </p>
+               <p>Theſe are <hi>Epecures</hi> indeed, placing
+<hi>Paradiſe</hi> in their <hi>throats,</hi> and <hi>heaven</hi> in their
+<hi>guts;</hi> their <hi>ſhrine</hi> is their <hi>Kitchin,</hi> their
+<hi>Prieſt</hi> is their <hi>Cook,</hi> the <hi>Altar</hi> is their
+<hi>table,</hi> and <hi>their belly is their God.</hi> By <hi>wine</hi> and
+<hi>furfeit ng,</hi> they pour out their whole eſtates into their bellies;
+yet nevertheleſs complain againſt <hi>nature</hi> for making their necks
+ſo <hi>ſhort.</hi>
+               </p>
+               <p>
+                  <hi>Ariſtippus</hi> gave to the value of <hi>ſixteen
+ſhillings</hi> for a <hi>Patridge;</hi> his clow<g ref="char:EOLhyphen"/>niſh neighbour told him,
+he held it too dear at <hi>two pence.</hi> Why, quoth <hi>Ariſtippus,</hi> I
+eſteem leſs of <hi>a pound,</hi> then thou doſt of <hi>a penny:</hi> the
+ſame in effect ſayes the <hi>prodigal ſon,</hi> to his <hi>penurious
+father;</hi> for how elſe could he ſo ſoon bring a <hi>noble to nine
+pence,</hi> an inheritance of a <hi>thouſand pounds per annum, to an anunity
+of five hundred ſhillings?</hi> beſides. the one obtains <hi>a thouſand
+pounds with more eaſe,</hi> then the other did <hi>a thouſand pence;</hi>
+and by how much the leſs he eſteems of money, by ſo much the more noble
+and better man he eſteems himſelf, and his father the more baſe; and
+here<g ref="char:EOLhyphen"/>upon he ſcorns any <hi>calling,</hi> and muſt go <hi>apparelled like a
+Prince.</hi>
+               </p>
+               <p>
+                  <hi>God</hi> hath <hi>inacted</hi> it as a perpetual <hi>law, In
+the ſweat of thy Face</hi> (be it <hi>brow</hi> or <hi>brain</hi>)
+<hi>ſhalt thou eat bread, till thou return to the earth,</hi> Gen. 3.19. And
+for the beſt <hi>Gentleman</hi> to diſpiſe honeſt <hi>callings</hi>
+(<hi>mental</hi> or <hi>manual</hi>) is a <hi>pride without wit</hi> or
+<hi>grace.</hi> Even gallant <hi>Abſalom</hi> was a <hi>great
+ſheep-maſter:</hi> the bravery and magnificence of a <hi>Courtier,</hi>
+muſt be built upon <pb n="7" facs="tcp:154368:5"/>the ground of <hi>frugality.</hi>
+Beſides, exerciſe is not more <hi>wholſome</hi> for the <hi>body,</hi>
+then it is for the <hi>minde</hi> and <hi>ſoul;</hi> but this <hi>vain
+glorious</hi> Coxcombe is all for <hi>ſports</hi> and <hi>pleaſure,</hi>
+and ſeldom ceaſes <hi>hunting after ſports</hi> (as <hi>Eſau</hi> for
+veniſon) until he hath <hi>loſt the Bleſſing.</hi> But he ſhould (O
+that he would) conſider, that <hi>medicines</hi> are <hi>no meat to live
+by.</hi>
+               </p>
+               <p>Then for his <hi>pride in apparel,</hi> you may know that by
+this; he is like the Cinamon tree, whoſe <hi>barke</hi> is of more worth then
+his <hi>body;</hi> or like the <hi>Eſtridge</hi> or Bird of
+<hi>Paradiſe,</hi> whoſe <hi>feathers</hi> are more worth then her
+<hi>fleſh:</hi> Or ſome <hi>Vermine,</hi> whoſe caſe is better then het
+<hi>carcaſs.</hi> And yet this ſwells him ſo, and makes him look as
+<hi>big,</hi> as if the <hi>river of his blood</hi> could not be <hi>bancked
+within the channel of his veins;</hi> and ſhift his attire he muſt, like
+the Iſlanders of <hi>Foolianna the ſicle;</hi> or that <hi>King of
+Mexico,</hi> who was wont to <hi>change his cloths four times a day,</hi> and
+never wear them again, im<g ref="char:EOLhyphen"/>ploying his leavings and caſt ſuits, for his
+continual liberalities and rewards, and who would alſo have neither
+<hi>pot</hi> nor <hi>diſh,</hi> nor any <hi>implement</hi> in his
+<hi>Kitchin,</hi> or on his <hi>Table,</hi> be brought twice before him.</p>
+               <p>Indeed he cannot <hi>ſhift</hi> himſelf out of the
+<hi>Mercers books,</hi> until he hath <hi>ſold</hi> the other <hi>Farm</hi>
+or <hi>Lordſhip;</hi> perhaps a <hi>dinner</hi> or <hi>ſupper</hi> at
+ſome <hi>Tavern,</hi> may coſt him <hi>ten pounds</hi> or more; for he
+muſt <hi>pay the whole reckoning,</hi> that he may be counted the beſt man.
+Yea when the <hi>ſhot</hi> comes to be <hi>paid,</hi> for any man to
+<hi>draw</hi> in his company, is a <hi>juſt quarrel,</hi> and uſe hath made
+it <hi>unpleaſant</hi> to him <hi>not to spend,</hi> and yet <hi>bare head in
+the ſtreets,</hi> does him <hi>more good,</hi> then a <hi>meals meat.</hi> He
+hath the <hi>Wolfe of vaine glory,</hi> and that he <hi>feeds</hi> untill
+himſelf becomes the <hi>food.</hi> Nor can it be long, firſt, for an
+<hi>exceſſive</hi> and <hi>ſucceſſive impairing,</hi> alwayes
+importeth <hi>a final diſſolution.</hi> Nor hath he ever the wit to think
+upon <hi>ſparing,</hi> till he comes to the <hi>bottom of the purſe,</hi>
+reſembling <hi>Plautus</hi> that famous <hi>comical Poet,</hi> born in
+<hi>Umbria,</hi> who having ſpent all he had on <hi>plaiers apparel,</hi> was
+forced for his living, to ſerve a <hi>Baker</hi> in turning a <hi>hand
+mill.</hi> Like an <hi>hour-glaſs</hi> turned up, he never leaves
+<hi>running</hi> till <hi>all be out;</hi> He never looks to the
+<hi>bottom</hi> of his patrimony, till it be quite unravelled; and then (too
+late) complains that the ſtock of his wealth ran <hi>coarſe at the fag
+end.</hi>
+               </p>
+               <p>His father had <hi>too good</hi> an opinion of the
+<hi>world,</hi> and he too much <hi>diſ<g ref="char:EOLhyphen"/>daines</hi> it: onely herein he
+ſpeeds (as he thinks) <hi>a little the better,</hi> for that thoſe who
+<hi>barked at hit father like curs, faune upon him, and lick his hand like
+Spaniels.</hi> Yea the <hi>Prodigalls</hi> caſe is herein better then the
+<hi>Mi<g ref="char:EOLhyphen"/>ſers,</hi> for the <hi>Prodigal</hi> ſhall only have <hi>nothing
+hereafter;</hi> but the <hi>Covetous</hi> man, hath <hi>nothing here nor
+hereafter.</hi> He beſtows upon his inferiors <hi>liberal gifts,</hi>
+thinking it good <hi>gain</hi> to receive for it <hi>good words,</hi> and your
+Wor<g ref="char:EOLhyphen"/>ſhip. Thus by the frequent uſe of ſubſtracting <hi>pounds</hi> out
+of <hi>hundreds, ſhil<g ref="char:EOLhyphen"/>lings</hi> out of <hi>pounds,</hi> and <hi>pence</hi>
+out of <hi>ſhillings,</hi> the end of his account proves all
+<hi>Cyphers.</hi>
+               </p>
+               <p>
+                  <hi>Idleneſs</hi> is the <hi>Coach</hi> that brings, a man to
+<hi>Needam; prodigality</hi> the <hi>poſt-horſe.</hi> His fathter was
+<hi>no mans friend</hi> but his own, and (ſayes <pb n="8" facs="tcp:154368:6"/>the
+proverb) is <hi>no mans foe elſe;</hi> be he never ſo <hi>old, he</hi>
+never attains to the <hi>yeers of diſcretion;</hi> And in caſe providence
+do not take him <hi>ward,</hi> his heirs ſhall never be ſought after. His
+<hi>Veſſel</hi> hath <hi>three leaks,</hi> a <hi>laſcivious eye,</hi> a
+<hi>gaming hand, a deified belly;</hi> and to content theſe, he can neither
+rule his <hi>heart,</hi> his <hi>tongue,</hi> nor his <hi>purſe.</hi> He
+never proves his <hi>own man,</hi> till he hath no other, and then perhaps when
+want, or good counſel, or time hath made him ſee as much as his father did,
+at laſt he ſues for a <hi>Room</hi> in an <hi>Almeſhouſe,</hi> that his
+father built; elſe when he feels want (for till then he never ſees it) he
+complains of greatneſs for ingratitude; that he was not thought of when
+promotions were a dealing. Yet ſeeing there is ho remedy but patience, when
+his <hi>laſt Acre lies in his purſe,</hi> he projects ſtrange things, and
+builds <hi>houſes in the aire,</hi> having ſold thoſe on the ground. Not
+that he is a man of parts, for he is onely witty to wrong and undoe himſelf;
+<hi>Eaſe, ſaith,</hi> Solomon, <hi>ſlayeth the fooliſh, and the
+proſperity of fools de ſtroyeth them,</hi> Prov. 1.31.</p>
+            </div>
+            <div n="3" type="chapter">
+               <head>CHAP. 3.</head>
+               <p>MAny an one hath his father unfeathered to warm him, but pride,
+drunkenneſs, gamming, <hi>&amp;c.</hi> plucks them away again ſo faſt,
+that he ſoon becomes naked and bare. He is like a <hi>barren</hi> plot of
+<hi>ground,</hi> for let him receive never ſo much <hi>ſeed</hi> and
+<hi>manuring, Sun</hi> and <hi>ſhowers,</hi> he re<g ref="char:EOLhyphen"/>maines ever <hi>dry</hi>
+and <hi>fruitleſſe,</hi> and no marvail, when not onely his leud and
+vicious courſe bring <hi>Gods</hi> curſe upon all he hath or takes in hand;
+but when he and what he hath, is alſo anted for his fathers ſake. For
+whereas the <hi>Holy Ghoſt</hi> ſaith of the <hi>juſt man, His ſeed
+ſhall be mighty upon earth, his generation ſhall be bleſſed,</hi>
+&amp;c. <hi>Pſal.</hi> 112.2. and many the like, <hi>Pſal.</hi> 103. where
+God hath promiſed to bleſſe and reward the children; yea, <hi>the
+childrens children for their fathers goodneſſe,</hi> verſ. 17.
+<hi>Iſa.</hi> 58.10, 11.12. <hi>Pſal.</hi> 37.25, 26, &amp; 112.2. to 6. Of
+which I might give you examples, not a few. The children of <hi>Noah</hi> were
+preſerved from drown<g ref="char:EOLhyphen"/>ing for their fathers ſake, <hi>Gen.</hi> 7.1.
+<hi>Mephiboſheth</hi> fares the better for his <hi>fathers</hi>
+goodneſſe: The <hi>Kenites</hi> for <hi>Jetbroes,</hi> 1 Sam. 15.6. and
+that ſome hundreds of yeers after their <hi>Anceſter</hi> was dead;
+<hi>Phineas</hi> his ſeed for his ſake, <hi>Numb.</hi> 25, 11, 12, 13.
+<hi>Solomon</hi> for his father <hi>Davids</hi> ſake, 2 <hi>Sam.</hi> 1.2.
+<hi>Iſhmael</hi> for <hi>Abrahams</hi> ſake, Gen. 17.20. And all
+<hi>Iſarel</hi> fared the bet<g ref="char:EOLhyphen"/>ter for <hi>Abraham, Iſaac,</hi> and
+<hi>Iacobs</hi> ſake, <hi>Deut.</hi> 4.37. 1 <hi>Kings</hi> 11.12. <hi>The
+loving-kindneſſe of the Lord,</hi> ſayes the Pſalmiſt, <hi>indureth
+for ever, and ever, upon them that fear him, and his righteouſneſſe upon
+childrens children, Pſal.</hi> 103.17. <hi>Exod.</hi> 20.6.</p>
+               <p>And as <hi>God</hi> uſually bleſſeth, and rewardeth the
+<hi>children</hi> for their <hi>fa<g ref="char:EOLhyphen"/>thers</hi> goodneſs, ſo on the contrary,
+<hi>Exod.</hi> 20.5. <hi>Eternal payments God</hi> uſes to <hi>require of the
+perſons</hi> only, <hi>temporary</hi> oftentimes <hi>of ſucceſſion</hi>
+as we <hi>ſue</hi> the <hi>Heirs</hi> and <hi>Executors</hi> of our
+<hi>Debtors. God</hi> hath peremptorily told us, that <hi>he will viſit the
+iniquity of ungodly parents, upon their children, unto <pb n="9" facs="tcp:154368:6"/>the
+third and fourth generation, Exod.</hi> 20.5. As for the ſin of
+<hi>Haman,</hi> his ten <hi>ſons</hi> were <hi>hanged, Heſter</hi> 9.13,
+14. And ſo for <hi>Sauls</hi> ſin, his <hi>ſeven ſons</hi> were
+likewiſe <hi>hanged,</hi> 2 <hi>Sam.</hi> 21.6. and thus for <hi>Achans
+ſin,</hi> all <hi>his ſons</hi> and <hi>daughters</hi> were
+<hi>ſtoned</hi> to <hi>death,</hi> and <hi>burned</hi> with fire by the
+Command<g ref="char:EOLhyphen"/>ment of <hi>Moſes,</hi> who was in <hi>Gods</hi> ſtead,
+<hi>Ioſh.</hi> 7 Yea <hi>God</hi> hath peremtorily threatned,
+<hi>Pſal.</hi> 109. that the <hi>children</hi> of a cruel and unmercifull
+man, <hi>ſhall be Vagabonds and beg their Bread, and that none ſhall extend
+mercy or favor unto them,</hi> ver. 7. to 17. <hi>God</hi> will make thoſe
+<hi>children beggers,</hi> for whoſe ſakes the <hi>fathers</hi> have
+<hi>made</hi> ſo many <hi>beggers;</hi> this is a truth which the
+<hi>father</hi> will not <hi>beleeve,</hi> but as ſure as <hi>God</hi> is
+juſt, the <hi>Son</hi> ſhall feel. As what common and daily experience have
+we thereof, had men but the wit to obſerve it? for hence it is, that
+<hi>riches</hi> ill got, <hi>ſhift Maſters</hi> ſo often. As rare it is,
+if the <hi>wealth</hi> of an Oppreſſor doth laſt to the <hi>fourth
+generation,</hi> ſeldom to the <hi>ſecond;</hi> for commonly in this
+caſe, as the <hi>father</hi> was the <hi>firſt</hi> that <hi>raiſed his
+houſe,</hi> by his extreme getting and ſaving, ſo the <hi>ſon</hi>
+proves the <hi>laſt, in overthrowing his houſe</hi> by exceſſive
+ſpending and laviſhing; as <hi>Tullius Cicero</hi> anſwered a
+<hi>Prodigal</hi> that told him he came of <hi>beggerly parents;</hi> for no
+man when his <hi>means</hi> is <hi>gone,</hi> will ever after <hi>truſt
+him</hi> with a <hi>ſtock</hi> to <hi>begin the world again;</hi> the caſe
+ſtanding with him, as it did with the unjuſt <hi>Steward,</hi> who having
+<hi>waſted his masters goods</hi> for the <hi>time paſt,</hi> could not be
+truſted with the like for the <hi>time to come;</hi> and whereas hitherto he
+hath with <hi>Eſan, rejected the bleſſing</hi> of proſperity, it will
+be denyed him hereafter, though he ſhould <hi>ſeek it with tears:</hi> and
+which is worſe then all, if <hi>death</hi> find him (as is much to be feared)
+as <hi>banquerupt of ſpiritual,</hi> as of <hi>Worldly goods,</hi> it will
+ſend him to <hi>an eternal priſon:</hi> for what can we think of them, that
+do not onely loſe <hi>cruſts and crummes,</hi> which <hi>our Saviour</hi>
+would have carefully <hi>gathered up, John</hi> 6.12. but even laviſh and
+<hi>wherle away whole patrimonies;</hi> yea, moſt wick<g ref="char:EOLhyphen"/>edly <hi>ſpend them
+in riot,</hi> and upon <hi>Dice, Drabs, Drunkenneſs?</hi> O the fearful
+<hi>account</hi> which theſe <hi>unthrifty Bayliffs</hi> will one day have to
+<hi>give up</hi> to our great <hi>Lord and Maſter,</hi> when he ſhall call
+them to a <hi>ſtrict reckoning of their talents!</hi> if he was <hi>condemned
+that encreaſed not</hi> the ſum concredited to him, what then ſhal become
+of him that <hi>lawleſly</hi> and <hi>laviſhly ſpends</hi> and impaires
+it? bringing in ſuch a reckoning as this; <hi>Item, ſpent upon my luſts
+pleaſures, and pride, fourty years,</hi> and <hi>five hundred</hi> or <hi>ten
+thouſand pounds,</hi> &amp;c. let them be in their right ſenſes, they
+cannot thin that <hi>God</hi> will <hi>take this for a good diſcharge of
+their Steward-ſhips,</hi> though the <hi>devil</hi> may and will make them
+<hi>beleive,</hi> that <hi>Chriſt will quit</hi> all ſcores between
+<hi>him,</hi> the <hi>father</hi> and <hi>them.</hi>
+               </p>
+               <p>And thus I have made it plain, that <hi>want</hi> and
+<hi>beggery,</hi> is the <hi>heir ap<g ref="char:EOLhyphen"/>parent to riot and prodigality,</hi> and
+that he who when he <hi>ſhould not, ſpends too much,</hi> ſhall, when
+<hi>he would not,</hi> have <hi>too littel to ſpend;</hi> a good leſſon
+for young gulls. I have likewiſe ſhown, that what the <hi>covetous</hi>
+hath <hi>baſely</hi> gotten, is as <hi>ill beſtowed,</hi> and <hi>worſe
+imployed,</hi> a good Item for old Curmud<g ref="char:EOLhyphen"/>gens to take notice of, that ſo
+they may not <hi>ſtarve their bodies,</hi> and <hi>damn their ſouls, ſor
+their ſons,</hi> to ſo little purpoſe.</p>
+               <pb n="10" facs="tcp:154368:7"/>
+               <p>As O that the <hi>covetous Moule,</hi> who is now <hi>digging a
+houſe in the earth</hi> for his <hi>poſterity,</hi> did but fore-ſee how
+his <hi>Prodigal ſon</hi> will <hi>conſume</hi> what he with ſo much care
+and induſtry hath <hi>ſcraped</hi> together; for ſhould he have leave
+hereafter to come <hi>out of hell</hi> for an hour, and <hi>ſee</hi> it, he
+would curſe this his folly, yea, if poſſible, it would <hi>double</hi>
+the <hi>pain</hi> of his infernall <hi>torment,</hi> as it fares with
+<hi>Gnipho the Uſurer,</hi> who (as <hi>Lucian</hi> feigneth) <hi>lying in
+hell,</hi> lamenteth his miſerable eſtate, that one <hi>Rodocha<g ref="char:EOLhyphen"/>res, an
+inceſtuous Prodigal,</hi> on earth <hi>conſumed</hi> his goods
+<hi>Waſtfully,</hi> which he by unjuſt means had <hi>ſcraped
+together</hi> ſo <hi>carefully;</hi> the which ſeemeth to have ſome
+affinity with the <hi>word of truth;</hi> why elſe is <hi>Dives being in hell
+torments,</hi> ſaid to <hi>lift up his eyes, and to ſee Abraham a farre off
+and La<g ref="char:EOLhyphen"/>zarus in his boſome,</hi> parlying ſo ſeriouſly about his
+<hi>brethren,</hi> whom he had left behind him? <hi>Luke</hi> 16.13. &amp;c.
+Why elſe doth our <hi>Saviour</hi> ſay, that <hi>the wicked ſhall gnaſh
+their teeth for vexation, when they ſhall ſee Abraham, and Iſaac, and
+Jacob in the Kingdome of heaven, and themſelves thruſt out of doors?</hi>
+Luke 13.28.</p>
+               <p>But that thou mayſt the better <hi>foreſee,</hi> or at
+leaſt <hi>fore-think</hi> what will follow, I will ſhew thee thy caſe in
+ſundry other perſons.</p>
+               <p>
+                  <hi>Clodius, ſon to Eſophus</hi> the <hi>Tragedian,
+ſpent</hi> marvelous great wealth which his <hi>father left</hi> him.
+<hi>Epicharmus the Athenian,</hi> having a large <hi>pa<g ref="char:EOLhyphen"/>trimony</hi> left him
+by his <hi>parents, conſumed it in ſix dayes,</hi> and all his life time
+after lived a begger. <hi>Apicius,</hi> in banquetting, <hi>ſpent great
+reve<g ref="char:EOLhyphen"/>nues,</hi> left him by his <hi>parſimonious</hi> father, and then
+becauſe he would not lead a miſerable life, <hi>hanged himſelf. Pericles,
+Calias,</hi> and <hi>Nicius, by pro<g ref="char:EOLhyphen"/>digall laviſhing</hi> and palpable
+ſenſuallity, ſpent in a ſhort time very great patrimonies, left them by
+their parents, and when all their means was gone they drank each of them a
+<hi>poyſoned potion</hi> one to an other, and <hi>dyed</hi> in the place.</p>
+               <p>Again, we read that <hi>Caligula, in one year of his</hi> reign,
+<hi>ſpent</hi> prodi<g ref="char:EOLhyphen"/>gally, <hi>ſixty ſeven millions of gold,</hi> which
+<hi>Tiberius his Predeceſſor</hi> had <hi>ga<g ref="char:EOLhyphen"/>thered</hi> together, as
+<hi>Tacitus</hi> tells us, and whereas <hi>John</hi> the 22. left be<g ref="char:EOLhyphen"/>hind him,
+(as <hi>Petrarch</hi> reports) <hi>two hundred and fifty tun of gold;</hi>
+inſo<g ref="char:EOLhyphen"/>much that an odde fellow made this jeſt of him, <hi>Erat Pontifex
+maximus ſi non virtute pecunia tamen maximus.</hi> Pope <hi>Sixtus
+Quintus,</hi> (called of Engliſhmen, a by-word, for ſelling our
+<hi>Kingdom</hi> to <hi>Philip of Spain, Six Cinque,</hi>) through his
+intolerable covetouſneſſe, <hi>left</hi> in his <hi>Exchequer five
+millions;</hi> but his <hi>ſucceſſor Gregory the fourteenth, waſted
+four of them in ten months and leſſe,</hi> beſides his ordinary revenues,
+in riot and prodigality; and many the like which I could tyre you with;
+inſomuch that <hi>the curſe of Epimenides</hi> is daily fulfilled, which
+was, that all the treaſure hord<g ref="char:EOLhyphen"/>ed up by the covetous, ſhould be waſted
+by the <hi>Prodigall;</hi> for, for the moſt part the <hi>Miſers means</hi>
+lights into the hands of ſome ſuch <hi>ding-thrifty dearth-maker,</hi> as
+out of a <hi>laborious Silk-worm,</hi> riſes a <hi>painted
+But<g ref="char:EOLhyphen"/>ter-flye.</hi>
+               </p>
+            </div>
+            <div n="4" type="chapter">
+               <pb n="11" facs="tcp:154368:7"/>
+               <head>CHAP. 4.</head>
+               <p>ANd ſo you have three Chapters, taken out of <hi>the
+prevention of poverty.</hi> In <hi>Gods goodneſſe</hi> and <hi>Englands
+unthankfulneſſe</hi> by the ſame <hi>Authour?</hi> I find this enſuing
+<hi>Character of a Prodigall</hi> or <hi>Looſe Libertine:</hi> it is in
+Chapter the 9th. where he is appointed to <hi>lead the Troop,</hi> of Ignorant,
+un<g ref="char:EOLhyphen"/>beleiving, Ingrateful and wicked perſons; as <hi>Judas</hi> led <hi>the
+Souldiers.</hi> It begins, and goes on as followeth.</p>
+               <p>Thou that art <hi>Openly profane;</hi> doſt ſomanifeſtly
+prove, and pro<g ref="char:EOLhyphen"/>feſs thy ſelf to be one of thoſe ignorant,
+<hi>unbelieving, ingrateful,</hi> and <hi>wicked</hi> wretches herein
+concern'd: yea, to be one of the <hi>children</hi> of <hi>diſobedience
+whom</hi> Satan hath <hi>blinded:</hi> that in reſpect of others, I ſhould
+think it needleſſe to ſpend time in further proof thereof: yet I would
+gladly ſay ſomething to ſhame thee out of thy ſelf: where<g ref="char:EOLhyphen"/>fore briefly
+thus: Thou are <hi>kept by the Devil in a ſnare, and taken cap<g ref="char:EOLhyphen"/>tive of him at
+his will: he ruleth, and worketh his pleaſure in thee,</hi> as be<g ref="char:EOLhyphen"/>ing
+<hi>thy</hi> God <hi>and father,</hi> and <hi>Prince, and Maſter,</hi> 2 Tim.
+2.26. Joh. 8.44. and 14.30. 2 Cor. 4.4. Thy odious qualities are theſe and
+the like: thou doeſt baniſh all <hi>civility,</hi> and give thy ſelf over
+to <hi>ſenſuality:</hi> and art neither afraid nor aſhamed; to let thy
+wickedeſt thoughts break forth into actions. Yea, thou thinkeſt thy ſelf
+the honeſter man for it: and boaſteſt thou art none of thoſe
+diſſembling Hypocrites that ſeem to be what they are not. Thou art a
+common <hi>Drunkard:</hi> in ſtead of quenching thy thirſt, thou drowneſt
+thy ſenſes.</p>
+               <p>Thou deſireſt not the reputation of <hi>honeſty,</hi> but
+of <hi>good fellowſhip:</hi> Thou art a continual <hi>ſwearer,</hi> and
+that of bloody oaths. One of our <hi>Ruffians,</hi> or ſons of
+<hi>Belial:</hi> who when thou art diſpleaſed with others, wilt flie in thy
+<hi>Makers face,</hi> and tear thy <hi>Saviours Name</hi> in peices: even
+ſwearing away thy part in that blood, which muſt ſave thee it ever thou
+beeſt ſaved. Yea, if thou art never ſo little provoked, <hi>curſes</hi>
+with thee, ſtrive for number with <hi>oaths,</hi> and <hi>lewd
+ſpeeches</hi> with both. Thou knoweſt no other dialect, then <hi>roaring,
+ſwearing,</hi> and <hi>banning:</hi> and in caſe thou art reproved for it,
+thou wilt ſay, <hi>We take too much upon us:</hi> as <hi>Corah</hi> and his
+complices twitted <hi>Moſes, Numb.</hi> 16 3. not knowing how ſtrictly
+<hi>God</hi> commands, and requires it, <hi>Levit.</hi> 19.17. <hi>Heb.</hi>
+3.11. 2 <hi>Tim.</hi> 2.25.<hi>Ezek.</hi> 3.18, to 22. 2 <hi>Pet.</hi> 2.7, 8.
+Whence as the <hi>Chief Prieſts</hi> anſwered <hi>Judas; What is that to
+us?</hi> ſo thou wilt blaſpheme <hi>God,</hi> tear <hi>Chriſt</hi> in
+pieces, and more then betray, even ſhed his innocent blood, digging into hit
+ſide with oaths and ſay, when told of it, <hi>What is that to us?</hi> When
+thou mighteſt as well ſay; What is <hi>Chriſt</hi> to us? What is
+<hi>Heaven</hi> to us? or what is <hi>ſalvation</hi> to us? For to us the one
+cannot be without the other. We ſhal never inherit part of his glory in
+Heaven, if we do not take his glories part upon earth. And with <hi>God</hi> it
+is much about one; whether we be <hi>doers</hi> of evil, or no hinderers. For
+if we muſt not ſee our neighbours <hi>Oxe</hi> not <hi>Sheep</hi> aſtray,
+or fall into a pit; but we muſt reduce him, and help him out of it,
+<hi>Deut.</hi> 
+                  <pb n="12" facs="tcp:154368:8"/>22.1. We are much more bound to help our
+<hi>Neighbour</hi> himſelf, from <hi>dropping</hi> into the
+<hi>bottomleſſe pit of Hell.</hi> And what know we? <hi>but we may win our
+brother, and ſo ſave his ſoul?</hi> Matth. 18.15 Again, thou art an
+uſual <hi>companion of Harlots,</hi> thy <hi>ſummum bonum</hi> is a
+<hi>Punk:</hi> and thou wilt rather <hi>burn in Hell,</hi> then marry.</p>
+               <p>Thou are one of thoſe that St. <hi>Peter</hi> ſpeaks of:
+thou haſt <hi>eyes full of adultery, and that cannot ceaſe to ſin.</hi>
+Thou gazeſt upon every fair face; and luſteſt after every beautiful
+woman: I hy <hi>ſpeech</hi> is lewd and obſcene: thy <hi>diſcourſe
+ſcurrility, laſcivious</hi> thy <hi>behaviour.</hi> Thou art a frequent
+<hi>ſlan<g ref="char:EOLhyphen"/>derer</hi> of thy <hi>Neigbour:</hi> an open
+<hi>Sabbath-breaker:</hi> Canſt boaſt of ſin and miſchief, and if need
+be <hi>defend it.</hi>
+               </p>
+               <p>Like the <hi>Salamander,</hi> thou art never well, but in the
+<hi>fire</hi> of contention. And art apt to quarrel, yea, kill a man for every
+fooliſh trifle; be it but for the <hi>wall,</hi> or refuſing to
+<hi>pledge</hi> thee; as it thy honour were of more worth then thy ſoul. Yea,
+the <hi>Devil</hi> h th ſo blinded, and bewitcht thee: that thou thinkeſt
+every wrong, or diſgraceful word quarrel juſt enough, to ſhed blood, that
+true valour conſiſts only in a brave revenge and be<g ref="char:EOLhyphen"/>ing implacable: that
+<hi>patience</hi> is but an argument of <hi>baſeneſſe;</hi> and
+there<g ref="char:EOLhyphen"/>fore thou wilt ra her ſuffer a <hi>ſword in thy bowels,</hi> then
+<hi>a lye in thy throat.</hi> I confeſſe, thou wile fight in no quarrel but
+a <hi>bad one,</hi> and ſooner in thy <hi>Miſtreſſes defence,</hi> then
+in thy <hi>Makers.</hi>
+               </p>
+               <p>Thou art of a reprobate judgment touching <hi>actions</hi> and
+<hi>perſons:</hi> eſtee<g ref="char:EOLhyphen"/>ming <hi>good evil,</hi> and <hi>evil good,</hi>
+Prov, 17.15. and 29.27. Iſa. 20. Thou doeſt ſtifle thy
+<hi>conſcience,</hi> and wouldſt force thy ſelf to bel eve if it were
+poſſible, that in caſe men will not <hi>ſwear, drink drunk, conform to
+thy lewd cuſtomes,</hi> and the like, th y are <hi>over-preciſe;</hi> and
+to forbear evil, is quarrel ſufficient for thee. Thou ſpeakeſt evil of
+all, that <hi>will not run with thee to the ſame exceſſe of riot,</hi> 1
+Pet. 4.4. making them a <hi>by-word to the people,</hi> Job 17.6. and <hi>a
+ſong</hi> amongſt thy fellow <hi>Drunkards,</hi> Pſal. 69.12. Thou art
+ſo <hi>deſperately wicked,</hi> that thou wilt <hi>mock thy admoniſher,
+ſcoffe at the means to be ſaved;</hi> and make thy ſelf <hi>merry wi th
+thy own dam<g ref="char:EOLhyphen"/>nation.</hi>
+               </p>
+               <p>In ſtead of <hi>hating</hi> the evil thou doſt, and thy
+ſelf for doing it: thou art <hi>glad</hi> of it, <hi>rejoyceſt</hi> in it,
+<hi>boaſteſt</hi> of it; yea, <hi>pleadeſt for it,</hi> and
+<hi>ap<g ref="char:EOLhyphen"/>plaudeſt thy ſelf for thy wickedneſſe: God is not in all thy
+thoughts,</hi> except to blaſpheme him, and to ſpend his days in the
+<hi>Devils ſervice;</hi> And rather then abridge <hi>thy pleaſure,</hi>
+thou wilt hazard the <hi>diſpleaſure of God.</hi> Thou doeſt not honour
+but are <hi>ſtubborn,</hi> and <hi>diſobedient to thy parents;</hi> a
+<hi>Rioter,</hi> &amp;c. If they ſtand in need of thee; thou wilt not
+nouriſh or maintain them, as they did thee in thy need. Thou <hi>takeſt no
+care to provide for thy own family,</hi> but drinkeſt the very blood of thy
+Wife, Children, and Ser<g ref="char:EOLhyphen"/>vants: and art therein <hi>worſe then an
+Infidel.</hi> Thy greateſt delight is in <hi>devilliſh cruelty:</hi> as to
+ſee the poor innocent Creatures <hi>fight, pick out one anothers Eyes,</hi>
+and <hi>tear each others fleſh.</hi> Yea, to ſee two men <hi>fight,</hi>
+and <hi>kill</hi> one another, thou accounteſt but a <hi>ſport</hi> or
+<hi>playing,</hi> 2 Sam. 2.14. to 17. <pb n="13" facs="tcp:154368:8"/>Thou wilt borrow, or
+run in debt with every one; but never careſt to pay, or to ſatisfie any
+one: except it be thy <hi>Hoſteſſe for drink,</hi> leſt ſhe ſhould
+never more truſt thee.</p>
+               <p>As <hi>good</hi> men by their godly admonition, and vertuous
+example, <hi>draw all they can to Heaven:</hi> ſo by thy ſubtile
+allurements, and vicious example, <hi>thou draweſt all thou canſt to
+hell.</hi> For as if it were too little to damnthy own foul, or as if thine own
+ſins would not preſſe thee deep enough into <hi>hell;</hi> thou doeſt
+all that poſſibly thou canſt, to entice and enforce others to ſin with
+thee: for thou doeſt <hi>envy, hate, ſcoff at, nick-name, rail on,</hi> and
+<hi>ſlan<g ref="char:EOLhyphen"/>der</hi> the godly; that thou mayeſt <hi>flout</hi> them out of
+their faith, <hi>damp,</hi> or <hi>quench</hi> the ſpirit where thou
+perceiveſt it is kindled; <hi>diſcourage</hi> them in there way to
+<hi>heaven,</hi> to make them aſhamed of their holy converſation, and
+religious courſe: <hi>pull them back to the World,</hi> that ſo thou
+mayeſt have their company here <hi>in ſin,</hi> and hereafter <hi>in
+torment.</hi>
+               </p>
+               <p>Thou feareſt a <hi>Gaol</hi> more then thou feareſt
+<hi>hell:</hi> and ſtandeſt more upon thy <hi>ſides ſmarting,</hi> then
+upon <hi>thy ſoul.</hi> Thou regardeſt more the <hi>blaſts of mens
+breath,</hi> then the <hi>fire of Gods wrath:</hi> and trembleſt more at the
+thought of a <hi>Serjeant</hi> or <hi>Bailiff,</hi> then of <hi>Satan,</hi> and
+<hi>everlaſting perdition.</hi> Thou takeſt incouragement from the Saints
+<hi>falls,</hi> and ſins of <hi>Gods</hi> people to do the like: when they
+ſhould ſerve thee as <hi>Sea-marks,</hi> to make thee <hi>beware.</hi> Yea,
+thou doeſt moſt ſordidly, take liberty, and in<g ref="char:EOLhyphen"/>couragement to go on more
+ſecurely in thy evil courſes: becauſe <hi>God</hi> is merciful and
+forbears to <hi>execute judgement ſpeedily:</hi> and to defer thy
+<hi>re<g ref="char:EOLhyphen"/>pentance,</hi> becauſe the <hi>Theif upon the Croſſe,</hi> was
+heard at the laſt hour. Thou wilt boldly <hi>do what God forbids;</hi> and
+yet confidently <hi>hope to eſcape what he threatens.</hi>
+               </p>
+               <p>Thus I could go on, to tell thee a thouſand more of theſe
+thy wicked thoughts, words, and actions; had I not already done it. But
+becauſe I would not preſent my other <hi>Readers</hi> with
+<hi>Cole-worts</hi> twice ſod: be per<g ref="char:EOLhyphen"/>ſwaded to take view of them, in my
+other ſmall Tract, entituled, <hi>The o<g ref="char:EOLhyphen"/>dious, deſpicable, and dreadful
+condition of Drunkard, drawn to the Life:</hi> though indeed even a Tyth of
+theſe are ſufficient evidences to prove and to make thee confeſſe that
+thou art in a moſt damnable condition. But ſtand thou by, and let the
+<hi>civil Juſticiary,</hi> and <hi>formall Hypocrite</hi> hold up their
+hands, and hear their charge.</p>
+               <p>Here ends the <hi>Prodigals Character</hi> with which I will
+conclude.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <p>They that pleaſe, may have the whole (<hi>Library</hi>
+conſiſting of thirty ſeven <hi>Books</hi>) at <hi>James Crumps,</hi> a
+Stationer in <hi>Little Bartholo<g ref="char:EOLhyphen"/>mews Well-yard,</hi> and at <hi>Henry
+Cripps</hi> his Shop in <hi>Popes-head-Alley.</hi> 1661.</p>
+            <pb facs="tcp:154368:9"/>
+         </div>
+      </back>
+   </text>
+</TEI>
